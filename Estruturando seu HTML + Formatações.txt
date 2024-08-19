@@ -1,0 +1,25 @@
+- FORMATAR TEXTO <strong, i, b, u, font>)
+- TAGS <div, span, fieldstes, embeds, iframes>
+*<fieldset><legend> - campo de segmentação
+* <margin>
+*<border-radius>
+*<border-color>
+*<iframes> - carrega conteúdos externos na sua pág.
+< iframe src="um link, pagina, etc"
+
+TRABALHANDO COM MÍDIAS
+Tags
+* <img title="da zoom" alt"descrição de imagem" 
+<source src="um link"/>
+<width"tamanho" height"altura"/> 
+* <audio controls  < source src="musica.mp3"/> />
+opção autoplay
+* <video controls
+<source src="video.mp4"/> />
+*track (legenda - arquivo vtt, crt)
+<track src="legenda.vtt" kind="" srclang="lingua"
+defalt (se tiver mais que uma legenda, colocar de que 
+vc quer que carregue primeiro)
+
+
+

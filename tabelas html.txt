@@ -1,0 +1,11 @@
+tags
+*
+<table> <summary> resumo dos dados da tabelo (para acessibilidade)
+<caption> descrição da tabela
+<tr>  linha
+<td> coluna
+<th> define o que é cabecalho
+thead, tbody, tfoot
+
+estilizando tabelas
+https://web.dio.me/course/criando-tabelas/learning/7af681b3-73fc-47ca-849b-caa7ae04a7c0?back=/track/primeiros-passos-em-tecnologia&tab=undefined&moduleId=undefined

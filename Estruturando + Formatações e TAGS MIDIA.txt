@@ -1,0 +1,14 @@
+- FORMATAR TEXTO <strong, i, b, u, font>)
+- TAGS <div, span, fieldstes, embeds, iframes>
+*<fieldset><legend> - campo de segmentação
+* <margin>
+*<border-radius>
+*<border-color>
+*<iframes> - carrega conteúdos externos na sua pág.
+
+
+- CORES
+
+
+
+

@@ -1,0 +1,24 @@
+Formulário: um trecho do seu html onde vc vai ter campo que os usuários vão preencher com informações
+<form name="signup" action="algum site">
+texto  (ex:) Nome: <input type="text" name="name">
+	     Idade: <input type="number" name="age">
+	     Senha: <input type="password" name="password"> 
+		<button type="submit"> Enviar </button>
+</form>
+
+method=POST, não mostra as informaçoes pro http
+target"_blank", quando envia o formulário, vai pra outra aba
+autocomplete="on"
+<button type="button">Enviar</button>
+
+checkbox
+<input type="chekbox" name="opcional[]" value"opção"> +opção <pr>
+
+radio buton - só da pra escolher uma opção (ex: sim ou não)
+
+button reset
+button submit
+< form onsubmit="" 
+<button type="submit"Enviar</button>
+
+atributo action - define o caminho onde as informações do formulário serão enviadas

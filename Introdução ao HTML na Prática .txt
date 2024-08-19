@@ -1,0 +1,30 @@
+<html>
+<head>                estrutura do html
+<body>
+</html>
+
+CTRL + S para salvar o arquivo
+TAGS
+<hr /> cria uma linha
+<small> </small> escreve em fonte menor
+Algumas tags náo precisam de fechamento (ex:imput; img)
+
+Atributos
+das tags sáo propriedades que a tag pode ter, podendo ser genéricas de todas ou específicas
+Genéricas: ex:  id (identificador); style=""(no css, color); class(no css, para padronização)
+Esp: imput type="text" ; img src"endereço da imagem" 
+
+Links 
+<a href="link do site"> </a>
+ancoragem: <a href="#id para onde vai ser rolado  site"> </a>
+<h1 #id=nome do subtitulo"
+
+Tipografia (site w3schools)
+exemplos:
+h1 (título); h2 (subtítulo)
+p (parágrafo)
+blockquote (citação)
+
+Lista Ordenada <ol> <li>
+Lista Não Ordenadas <ul>
+   
